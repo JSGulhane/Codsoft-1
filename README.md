@@ -1,4 +1,4 @@
-# Codsoft-task-3: Signup flow
+# Codsoft-task-1: Mobile App Signup Flow
 
 <img width="923" alt="Screenshot 2023-12-09 at 3 49 52 PM" src="https://github.com/JSGulhane/Codsoft-task-3/assets/65853891/5d9c7eb4-9edd-4834-8250-c4243f332947">
 
